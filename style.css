@@ -1,17 +1,10 @@
-.rectangle-1,
-.rectangle-1 * {
-  box-sizing: border-box;
-}
 .rectangle-1 {
   background: #ffffff;
   width: 1368px;
   height: 350px;
   position: relative;
 }
-.rectangle-2,
-.rectangle-2 * {
-  box-sizing: border-box;
-}
+
 .rectangle-2 {
   background: #44d3a8;
   border-radius: 100px;
@@ -32,10 +25,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.rectangle-3,
-.rectangle-3 * {
-  box-sizing: border-box;
-}
+
 .rectangle-3 {
   background: #c4c4c4;
   width: 200px;
@@ -46,10 +36,7 @@
   transform: translate(-50%, -50%);
   box-shadow: 0px 4px 4px 0px rgba(5, 4, 4, 0.25);
 }
-.rectangle-4,
-.rectangle-4 * {
-  box-sizing: border-box;
-}
+
 .rectangle-4 {
   background: #c4c4c4;
   width: 200px;
@@ -60,14 +47,7 @@
   transform: translate(-50%, -50%);
   box-shadow: 0px 4px 4px 0px rgba(5, 4, 4, 0.25);
 }
-.rectangle-5,
-.rectangle-5 * {
-  box-sizing: border-box;
-}
-.rectangle-5,
-.rectangle-5 * {
-  box-sizing: border-box;
-}
+
 .rectangle-5 {
   background: #c4c4c4;
   width: 200px;
@@ -78,10 +58,7 @@
   transform: translate(-50%, -50%);
   box-shadow: 0px 4px 4px 0px rgba(5, 4, 4, 0.25);
 }
-.rectangle-6,
-.rectangle-6 * {
-  box-sizing: border-box;
-}
+
 .rectangle-6 {
   background: #c4c4c4;
   width: 200px;
